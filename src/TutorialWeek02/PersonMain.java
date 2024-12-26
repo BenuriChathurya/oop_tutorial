@@ -1,6 +1,6 @@
 package TutorialWeek02;
 
-public class Main {
+public class PersonMain {
     public static void main(String[] args) {
         Person person1= new Person("Ishu ");
         person1.setSurname("Poornavi");
